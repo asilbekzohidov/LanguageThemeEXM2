@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LanguageThemeEXM</string>
+    <string name="action_settings">Sozlamalar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Birinchi Oyna</string>
+    <string name="second_fragment_label">Ikkinchi  Oyna</string>
+    <string name="next">Keyingi</string>
+    <string name="previous">Oldingi</string>
+
+    <string name="lorem_ipsum">
+        Menimcha revansh jangida Charlz g\'alaba qozonsa kerak. U
+        har doim kuchli bo\'lib qaytgan.
+    </string>
+    <string name="hello">Assalomu Alaykum</string>
+    <string name="ru">Ruscha</string>
+    <string name="uz">Uzbekcha</string>
+    <string name="light_mode">Kunduzgi rejim</string>
+    <string name="night_mode">Tungi rejim</string>
+</resources>

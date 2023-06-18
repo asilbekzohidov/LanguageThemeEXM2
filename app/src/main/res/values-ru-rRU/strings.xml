@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageThemeEXM</string>
+    <string name="action_settings">Настройки</string>
+    <string name="first_fragment_label">Первое окно</string>
+    <string name="second_fragment_label">Второе окно</string>
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+
+    <string name="lorem_ipsum">
+        Думаю, Чарльз выиграет матч-реванш. Он всегда возвращался сильнее.
+    </string>
+    <string name="hello">Привет</string>
+    <string name="ru">Ruscha</string>
+    <string name="uz">Uzbekcha</string>
+    <string name="light_mode">Kunduzgi rejim</string>
+    <string name="night_mode">Tungi rejim</string>
+</resources>
